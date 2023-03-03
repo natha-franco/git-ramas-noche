@@ -1,0 +1,6 @@
+- git init: iniciar
+- git commit -m "mensaje" : agregar commit (cambio)
+- git branch javascript (ejemplo) : para crear rama
+- git branch : mostrar ramas
+- git push origin javascript : subir rama al repositorio
+- git checkout javascript : para cambiar de rama
