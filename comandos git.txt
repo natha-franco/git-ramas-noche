@@ -4,3 +4,5 @@
 - git branch : mostrar ramas
 - git push origin javascript : subir rama al repositorio
 - git checkout javascript : para cambiar de rama
+- git merge: agregar cambios a otras ramas
+- git pull
